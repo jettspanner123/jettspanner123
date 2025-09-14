@@ -52,7 +52,19 @@
 <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />  
 <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />  
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />  
-<img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />  
+
+</div>
+
+### 🎨 Design & Creative Tools  
+<div align="left">
+
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />  
+<img src="https://img.shields.io/badge/-InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />  
+<img src="https://img.shields.io/badge/-After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />  
 
 </div>
 
@@ -68,7 +80,8 @@
 ---
 
 ## 🤝 Let’s Connect  
-🌐 Portfolio: *Coming Soon*  
+🌐 [Portfolio Website](https://uddeshyasinghrajput.vercel.app/)  
+🎨 [Graphic Design Portfolio (Google Drive)](https://drive.google.com/drive/u/0/folders/1CTlmQhYbKWlqByXM7VhfSl_3eDZPgCUZ)  
 💼 [LinkedIn](https://www.linkedin.com/)  
 🐦 [Twitter/X](https://x.com/)  
 
