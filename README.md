@@ -67,18 +67,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uddeshyasingh&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uddeshyasingh&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uddeshyasingh&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ## 🤝 Let’s Connect  
 🌐 Portfolio: *Coming Soon*  
 💼 [LinkedIn](https://www.linkedin.com/)  
