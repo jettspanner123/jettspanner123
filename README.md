@@ -35,17 +35,26 @@
 <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />  
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />  
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />  
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />  
 <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />  
 <img src="https://img.shields.io/badge/-REST-02569B?style=for-the-badge&logo=postman&logoColor=white" />  
 
 </div>
 
-### 🎯 Other Expertise  
-- 🤖 LangChain (AI workflows & integrations)  
-- 🏗️ Full-stack architectures  
-- 📱 Service-based eCommerce platforms  
-- 🌿 AR/Camera-based applications  
-- 🎬 Motion Design & Adobe Suite  
+### 🗄️ Databases  
+<div align="left">
+
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />  
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />  
+<img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />  
+<img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />  
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />  
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />  
+
+</div>
 
 ---
 
@@ -55,6 +64,18 @@
 ✅ Integrate **AI-driven solutions** into everyday apps  
 ✅ Craft **pixel-perfect UI/UX** with smooth motion design  
 ✅ Experiment with **AR & computer vision** to solve real problems  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uddeshyasingh&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uddeshyasingh&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uddeshyasingh&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
